@@ -1,0 +1,11 @@
+# This is a JavaScript/Node.js project
+# Dependencies are managed via package.json
+
+# To install dependencies, run:
+# npm install
+
+# Required Node.js version: 16+
+
+# External API Requirements:
+# - Shotstack API key (https://shotstack.io)
+#   Add to .env file as VITE_SHOTSTACK_API_KEY=your_key_here
