@@ -18,7 +18,7 @@ A browser-based video editing application built with React and Shotstack Studio 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ferdifdi/creative-video-editing-tool.git
    cd creative-video-editing-tool
    ```
 
